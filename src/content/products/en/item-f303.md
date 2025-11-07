@@ -1,12 +1,12 @@
 ---
-title: "SF-FN F303"
-description: "Hex Bolts"
+title: "iNDiVA"
+description: "3+3 Power Cord"
 main:
   id: 4
   content: |
-    Introducing the SF-FN F303 Hex Bolts – the perfect choice for heavy-duty fastening applications. Crafted with precision and durability in mind, these hex bolts provide the strength and reliability you need for your toughest projects.
-  imgCard: "@/images/product-image-4.avif"
-  imgMain: "@/images/product-image-main-4.avif"
+    The Indiva 3+3 Power Extension Cord is a robust and essential solution for managing multiple domestic appliances from a single power source. Engineered for safety and convenience, this unit features four universal sockets alongside 3 On/Off switches for individual control. Its durable construction and high-quality wiring provide reliable power distribution for common household electronics and gadgets. It is the quintessential accessory for expanding your power access, making it ideal for home offices, entertainment centers, or any area needing extra outlets.
+  imgCard: "@/images/3+3N.jpg"
+  imgMain: "@/images/3+3N.png"
   imgAlt: "Mockup boxes of hex bolts"
 tabs:
   - id: "tabs-with-card-item-1"
@@ -25,31 +25,19 @@ longDescription:
   btnTitle: "Contact sales to learn more"
   btnURL: "#"
 descriptionList:
-  - title: "Strength and Durability"
-    subTitle: "Constructed from high-quality materials, these hex bolts are built to withstand heavy loads and tough conditions."
-  - title: "Precision Engineering"
-    subTitle: "Engineered with precision-cut threads and exact specifications, ensuring a tight and secure fit every time."
-  - title: "Versatility"
-    subTitle: "Suitable for a wide range of applications, from construction to machinery, providing versatile fastening solutions."
+  - title: "Domestic Solution"
+    subTitle: "Tailored particularly for domestic use"
+  - title: "Ease of Use"
+    subTitle: "Each extension cord is designed for effortless installation, ensuring hassle-free use every time."
+  - title: "Light-Weight"
+    subTitle: "Designed to be easy to carry."
 specificationsLeft:
   - title: "Material"
-    subTitle: "Made from premium-grade steel or alloy, offering exceptional strength and corrosion resistance."
-  - title: "Thread Design"
-    subTitle: "Precision-cut threads ensure optimal grip and reliability, even in high-stress environments."
-  - title: "Quantity"
-    subTitle: "Each set includes a sufficient quantity of hex bolts to tackle various projects and applications."
-  - title: "Sizes"
-    subTitle: "Available in a range of sizes to accommodate different project requirements, ensuring versatility and compatibility."
-specificationsRight:
-  - title: "Finish"
-    subTitle: "Finished with a protective coating to enhance corrosion resistance and extend service life."
-  - title: "Load Capacity"
-    subTitle: "Designed to meet or exceed industry standards for load-bearing capacity, ensuring reliable performance under heavy loads."
-  - title: "Certifications"
-    subTitle: "Compliant with relevant industry standards and certifications, guaranteeing quality and reliability."
-  - title: "Applications"
-    subTitle: "Ideal for use in construction, machinery, automotive, and other heavy-duty applications that demand strong and reliable fastening."
+    subTitle: "High Quality ABS Plastic"
+
+  - title: "Lengths"
+    subTitle: "1.4m, 3m, 5m, 10m"
 blueprints:
   first: "@/images/blueprint-1.avif"
-  second: "@/images/blueprint-2.avif"  
+  second: "@/images/blueprint-2.avif"
 ---

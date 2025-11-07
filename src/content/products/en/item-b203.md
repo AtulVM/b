@@ -1,12 +1,12 @@
 ---
-title: "SF-BN B203"
-description: "Tap Bolts and Nuts Set"
+title: "iNDiVA"
+description: "4 + 4 Power Cord"
 main:
   id: 3
   content: |
-    Meet the SF-BN B203 – your reliable companion for professional-grade fastening. This comprehensive box set comes with a versatile selection of tap bolts and nuts, meticulously crafted to provide the strongest hold for your construction and assembly projects.
-  imgCard: "@/images/product-image-3.avif"
-  imgMain: "@/images/product-image-main-3.avif"
+    The Indiva 4+4 Power Extension Cord is a robust and essential solution for managing multiple domestic appliances from a single power source. Engineered for safety and convenience, this unit features four universal sockets alongside 4 On/Off switches for individual control. Its durable construction and high-quality wiring provide reliable power distribution for common household electronics and gadgets. It is the quintessential accessory for expanding your power access, making it ideal for home offices, entertainment centers, or any area needing extra outlets.
+  imgCard: "@/images/4+4N.jpg"
+  imgMain: "@/images/4+4N.png"
   imgAlt: "Mockup boxes of a tap bolts and nuts set"
 tabs:
   - id: "tabs-with-card-item-1"
@@ -17,7 +17,7 @@ tabs:
     title: "Specifications"
   - id: "tabs-with-card-item-3"
     dataTab: "#tabs-with-card-3"
-    title: "Blueprints"
+    title: "Product Gallery"
 longDescription:
   title: "Strength Meets Precision"
   subTitle: |
@@ -25,31 +25,19 @@ longDescription:
   btnTitle: "Contact sales to learn more"
   btnURL: "#"
 descriptionList:
-  - title: "Corrosion Resistance"
-    subTitle: "Zinc coating not only provides a polished look but also shields against corrosion, ensuring longevity."
-  - title: "Improved Safety"
-    subTitle: "A secure fitting translates to safer structures with reduced risk of component failure."
-  - title: "Convenience"
-    subTitle: "This all-in-one set means you have the right size on hand, cutting down on project delays and additional trips to the hardware store."
+  - title: "Domestic Solution"
+    subTitle: "Tailored particularly for domestic use"
+  - title: "Ease of Use"
+    subTitle: "Each extension cord is designed for effortless installation, ensuring hassle-free use every time."
+  - title: "Light-Weight"
+    subTitle: "Designed to be easy to carry."
 specificationsLeft:
-  - title: "Material Composition"
-    subTitle: "Manufactured from high-grade steel, delivering strength and reliability for demanding applications."
-  - title: "Surface Finish"
-    subTitle: "Protected with a zinc coating to offer enhanced corrosion resistance and longevity."
-  - title: "Quantity Per Set"
-    subTitle: "The set includes a balanced selection of 25 tap bolts and 25 matching nuts."
-  - title: "Size Assortment"
-    subTitle: "Features a comprehensive range of sizes to cater to various project requirements, ensuring compatibility and versatility."
-specificationsRight:
-  - title: "Thread Details"
-    subTitle: "Engineered with precision-cut threads for a secure fit and easy installation."
-  - title: "Mechanical Properties"
-    subTitle: "Each bolt and nut is designed to meet specific load rating or strength grades, suitable for structural applications."
-  - title: "Standards and Certifications"
-    subTitle: "Complies with relevant industry standards and certifications, ensuring consistent quality and safety."
-  - title: "Suitable Applications"
-    subTitle: "Ideal for a wide array of uses, from construction environments to mechanical assemblies that demand strong and secure joints."
+  - title: "Material"
+    subTitle: "High Quality ABS Plastic"
+
+  - title: "Lengths"
+    subTitle: "1.4m, 3m, 5m, 10m"
 blueprints:
-  first: "@/images/blueprint-1.avif"
-  second: "@/images/blueprint-2.avif"  
+  first: "@/images/4+4N.jpg"
+  second: "@/images/blueprint-2.avif"
 ---
