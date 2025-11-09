@@ -36,8 +36,6 @@ specificationsLeft:
     subTitle: "High Quality ABS Plastic"
   - title: "Lengths"
     subTitle: "1.4m, 3m, 5m, 10m"
-  - title: "Power Rating"
-    subtitle: "6A / 1.5kWh."
 
 blueprints:
   first: "@/images/prd141.png"
