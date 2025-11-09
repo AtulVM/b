@@ -34,7 +34,7 @@ export const OG = {
   locale: "en_US",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: : Hardware Tools & Construction Services`,
+  title: `${SITE.title}: : Extension Solutions for domestic Appliances`,
   description: "B indian Industries offers top-tier appliance extension solutions.",
   image: ogImageSrc,
 };
