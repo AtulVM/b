@@ -1,4 +1,4 @@
-import ogImageSrc from "@images/social.png";
+import ogImageSrc from "@images/4+4N.jpg";
 
 
 
@@ -35,7 +35,7 @@ export const OG = {
   type: "website",
   url: SITE.url,
   title: `${SITE.title}: : Hardware Tools & Construction Services`,
-  description: "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
+  description: "B indian Industries offers top-tier appliance extension solutions.",
   image: ogImageSrc,
 };
 

@@ -18,11 +18,15 @@ import p33 from "@images/3+3N.jpg";
 import tools from "@images/automated-tools.avif";
 import dashboard from "@images/dashboard-image.avif";
 import { partnersData } from "@/data_files/constants";
+import logopng from "/src/images/logo.png";
+import { Image } from "astro:assets";
 ---
 
 <MainLayout>
   <HeroSection
-    title=`B-Indian Industries Presents <img src="/src/images/logo.png" class="h-10 inline-block mb-1" alt="B-Indian Logo" />`
+    title=`B-Indian Industries Presents       <Image src={logopng} class="h-8" alt="B-Indian Logo" />
+
+    `
     subTitle="Reach With Exellence"
     primaryBtn="Start Exploring"
     primaryBtnURL="/products"
