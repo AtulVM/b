@@ -21,9 +21,9 @@ tabs:
 longDescription:
   title: "Home Appliance Extension Solution"
   subTitle: |
-    The SF-AB A765 Assorted Screw Set offers unmatched versatility and convenience, making it the perfect choice for DIY enthusiasts and professionals alike. With a comprehensive selection of screws, you'll always have the right fastener for the job.
+
   btnTitle: "Contact sales to learn more"
-  btnURL: "#"
+  btnURL: "/contact"
 descriptionList:
   - title: "Domestic Solution"
     subTitle: "Tailored particularly for domestic use"
@@ -34,11 +34,12 @@ descriptionList:
 specificationsLeft:
   - title: "Material"
     subTitle: "High Quality ABS Plastic"
-
   - title: "Lengths"
     subTitle: "1.4m, 3m, 5m, 10m"
+  - title: "Power Rating"
+    subtitle: "6A / 1.5kWh."
 
 blueprints:
-  first: "@/images/blueprint-1.avif"
-  second: "@/images/blueprint-2.avif"
+  first: "@/images/prd141.png"
+  second: "@/images/prd142.png"
 ---
