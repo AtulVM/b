@@ -5,9 +5,8 @@ import NavLink from "@components/ui/links/NavLink.astro";
 import enStrings from "@utils/navigation.ts";
 import BrandLogo from "@components/BrandLogo.astro";
 
-// Select the correct translation based on the page's lang prop:
-const strings = Astro.currentLocale === "fr" ? frStrings : enStrings;
-const homeUrl = Astro.currentLocale === "fr" ? "/fr" : "/";
+const strings = enStrings;
+const homeUrl = "/";
 ---
 
 <!-- Main header component -->
@@ -83,7 +82,7 @@ const homeUrl = Astro.currentLocale === "fr" ? "/fr" : "/";
       >
         <!-- Navigation links and Authentication component -->
         {
-          strings.navBarLinks.map((link) => (
+          strings.navBarLinks.map((link: { url: string; name: string }) => (
             <NavLink url={link.url} name={link.name} />
           ))
         }
