@@ -18,28 +18,20 @@ import p33 from "@images/3+3N.jpg";
 import tools from "@images/automated-tools.avif";
 import dashboard from "@images/dashboard-image.avif";
 import { partnersData } from "@/data_files/constants";
-import logopng from "/src/public/logo.png";
+import logopng from "/public/logo.png"; // <-- Imported Image Asset
 ---
 
 <MainLayout>
   <HeroSection
-    title=`B-Indian Industries Presents       <Image src={logopng} class="h-8" alt="B-Indian Logo" />
-
-    `
+    title={`B-Indian Industries Presents <img src="${logopng.src}" class="h-8 inline-block mb-1" alt="B-Indian Logo" />`}
     subTitle="Reach With Exellence"
     primaryBtn="Start Exploring"
     primaryBtnURL="/products"
     src={heroImage}
     alt="Stack of ScrewFast product boxes containing assorted hardware tools"
   />
-  <!--ClientsSection
-    title="Trusted by Retail Partners"
-    subTitle="Experience the reliability chosen by retail giants."
-    partners={partnersData}
-  />
-  <img src="/src/images/subix.png" /-->
   <FeaturesNavs
-    title=`<img src="/src/images/logo.png" class="h-8 inline-block mb-1" alt="B-Indian Logo" /> Power Cords`
+    title={`<img src="${logopng.src}" class="h-8 inline-block mb-1" alt="B-Indian Logo" /> Power Cords`}
     tabs={[
       {
         heading: "4+4 Power Strip",
